@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17412" started-at="2020-09-01T09:08:28Z" finished-at="2020-09-01T09:08:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17412" started-at="2020-09-01T09:08:28Z" finished-at="2020-09-01T09:08:45Z">
+      <class name="automationassignment.blazedemo">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:automationassignment.blazedemo@54c562f7]" name="initialization" is-config="true" duration-ms="6521" started-at="2020-09-01T14:38:28Z" finished-at="2020-09-01T14:38:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="SalesforceLoginLogout()[pri:0, instance:automationassignment.blazedemo@54c562f7]" name="SalesforceLoginLogout" duration-ms="10863" started-at="2020-09-01T14:38:34Z" finished-at="2020-09-01T14:38:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SalesforceLoginLogout -->
+      </class> <!-- automationassignment.blazedemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
